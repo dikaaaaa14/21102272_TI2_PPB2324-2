@@ -1,8 +1,11 @@
 // ignore_for_file: prefer_const_constructors, sort_child_properties_last
 
 import 'package:flutter/material.dart';
-import 'package:firebase_auth/styles/colors.dart';
-import 'package:firebase_auth/styles/text_style.dart';
+import 'package:praktikum_06_07/styles/colors.dart';
+import 'package:praktikum_06_07/styles/text_style.dart';
+import 'package:praktikum_06_07/styles/colors.dart';
+
+import '../styles/text_style.dart';
 
 class OnBoardingPage extends StatelessWidget {
   // ignore: use_super_parameters

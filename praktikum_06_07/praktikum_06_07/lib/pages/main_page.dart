@@ -1,7 +1,8 @@
 // ignore_for_file: use_super_parameters, prefer_const_constructors, avoid_unnecessary_containers
 
 import 'package:flutter/material.dart';
-import 'package:firebase_auth/styles/colors.dart';
+import 'package:praktikum_06_07/styles/colors.dart';
+import 'package:praktikum_06_07/styles/colors.dart';
 
 import '../styles/text_style.dart';
 import 'home/home_page.dart';

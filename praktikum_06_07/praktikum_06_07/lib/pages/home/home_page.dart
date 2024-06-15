@@ -1,7 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:percent_indicator/linear_percent_indicator.dart';
-import 'package:firebase_auth/styles/colors.dart';
-import 'package:firebase_auth/styles/text_style.dart';
+import 'package:praktikum_06_07/styles/colors.dart';
+import 'package:praktikum_06_07/styles/text_style.dart';
+
+import '../../styles/colors.dart';
+import '../../styles/text_style.dart';
 
 class HomePage extends StatelessWidget {
   const HomePage({super.key});
